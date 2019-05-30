@@ -1,6 +1,2 @@
 # WAY2SMS-Clone-Script-WEBSITE-SCRIPTS
-WAY2SMS Clone Php Script and Custom Solutions to create your own Php Based Messaging Platform Website with unique features and complete functionality
-Unique Features
-General Features
-Reseller
-Admin Panel
+WBest WAY2SMS Clone Php Script and Custom Solutions to form your own Php primarily based electronic communication Platform web site with distinctive options and complete practicality WAY2SMS Clone web site may be a free sms causation web site script like way2sms websites. It’s a international sms causation web site script fully manage by power full admin.It have all the options of those websites. it's an easy however powerful and easy web site. The system is simple to put in and to manage however secure.
